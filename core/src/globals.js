@@ -91,6 +91,7 @@ window['md5'] = md5
 window['moment'] = moment
 
 window['OC'] = OC
+window['oc_config'] = OC.config
 window['OCP'] = OCP
 window['OCA'] = OCA
 window['escapeHTML'] = deprecate(escapeHTML, 'escapeHTML')
