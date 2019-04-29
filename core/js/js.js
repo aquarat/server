@@ -1,8 +1,6 @@
 /* global oc_isadmin */
 
-var oc_debug;
 var oc_webroot;
-
 var oc_current_user = document.getElementsByTagName('head')[0].getAttribute('data-user');
 var oc_requesttoken = document.getElementsByTagName('head')[0].getAttribute('data-requesttoken');
 

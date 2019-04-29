@@ -97,6 +97,7 @@ window['escapeHTML'] = deprecate(escapeHTML, 'escapeHTML')
 window['formatDate'] = deprecate(formatDate, 'formatDate')
 window['getURLParameter'] = deprecate(getURLParameter, 'getURLParameter')
 window['humanFileSize'] = deprecate(humanFileSize, 'humanFileSize')
+window['oc_debug'] = OC.debug
 window['relative_modified_date'] = deprecate(relative_modified_date, 'relative_modified_date')
 $.fn.select2 = deprecate($.fn.select2, 'select2')
 
